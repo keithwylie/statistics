@@ -1,6 +1,6 @@
 book_filename: "statistics"
-repo: https://github.com/CrumpLab/statistics
-edit: https://github.com/CrumpLab/statistics/%s
+repo: https://github.com/keithwylie/statistics
+edit: https://github.com/keithwylie/statistics/%s
 output_dir: "docs"
 language:
   ui:
