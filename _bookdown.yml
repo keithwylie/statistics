@@ -1,6 +1,7 @@
 book_filename: "statistics"
 repo: https://github.com/keithwylie/statistics
 edit: https://github.com/keithwylie/statistics/%s
+delete_merged_file: "true"
 output_dir: "docs"
 language:
   ui:

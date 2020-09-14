@@ -282,7 +282,9 @@ pre { width: 70%;
 .fullwidth { max-width: 90%;
              clear:both; }
 
-span.newthought { font-variant: small-caps;
+span.newthought { font-variant: normal; 
+	font-style: italic; 
+	font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
                   font-size: 1.2em; }
 
 input.margin-toggle { display: none; }
