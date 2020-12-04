@@ -14,7 +14,7 @@
 }
 
 .book .book-body .page-wrapper .page-inner {
-    max-width: 90%;
+    max-width: 100%;
     margin: 0 auto;
     padding: 20px 0 40px
 }
@@ -126,9 +126,9 @@ article { position: relative;
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
-/*p, ol, ul { font-size: 1.4rem; }*/
+/*p, ol, ul { font-size: 1.1rem; }*/
 
-p { line-height: 2rem;
+p { line-height: 1.2rem;
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
@@ -285,7 +285,7 @@ pre { width: 70%;
 span.newthought { font-variant: normal; 
 	font-style: italic; 
 	font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-                  font-size: 1.2em; }
+                  font-size: 0.8em; }
 
 input.margin-toggle { display: none; }
 
