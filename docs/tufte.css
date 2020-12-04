@@ -1,7 +1,7 @@
 /* Import ET Book styles
    adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&family=Roboto:ital,wght@0,400;0,900;1,400;1,700&display=swap');
 
 @media (min-width: 600px) {
   .book.with-summary .book-header.fixed {
@@ -76,21 +76,22 @@ body { width: 100%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 0%;
-       font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+       font-family: 'Roboto';
        /*background-color: #fffff8;*/
        color: #111;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
-h1.title { font-weight: 400;
+h1.title { font-weight: 900;
+	 font-family: 'Roboto', sans-serif;
      font-style: normal;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
      font-size: 3.2rem;
      line-height: 1; }
 
-h1 { font-style: italic;
-     font-weight: 400;
+h1 { font-style: normal;
+     font-weight: 900;
      margin-top: 2.1rem;
      margin-bottom: 0;
      font-size: 2.2rem;
@@ -263,7 +264,7 @@ p.caption {  text-align: left;
                                        div.fullwidth p.caption { max-width: none; }
                                        blockquote p, blockquote footer { width: 90%; }}
 
-.sans { font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+.sans { font-family: 'Roboto', sans-serif;
         letter-spacing: .03em; }
 
 code { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -286,7 +287,7 @@ pre { width: 70%;
 
 span.newthought { font-variant: normal; 
 	font-style: italic; 
-	font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+	font-family: 'Castoro', serif;
                   font-size: 0.8em; }
 
 input.margin-toggle { display: none; }
