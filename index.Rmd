@@ -21,7 +21,7 @@ bibliography: [book.bib, packages.bib, MyLibrary.bib,refs.bib]
 biblio-style: apalike
 link-citations: yes
 #github-repo: rstudio/bookdown-demo
-description: "An introductory statistics textbook for psychology students"
+description: "Statistics for the Teachers College at Emporia State University"
 ---
 
 ```{r setup, include=FALSE}
