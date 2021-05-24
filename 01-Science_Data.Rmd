@@ -7,7 +7,7 @@ To call in statisticians after the experiment is done may be no more than asking
 ## On the psychology of statistics
 
 <div class="marginnote">
-Adapted nearly verbatim from Chapters 1 and 2 in Navarro, D. "Learning Statistics with R." https://compcogscisydney.org/learning-statistics-with-r/
+Adapted from Chapters 1 and 2 in Navarro, D. "Learning Statistics with R." https://compcogscisydney.org/learning-statistics-with-r/
 </div>
 
 To the surprise of many students, statistics is a fairly significant part of a psychological education. To the surprise of no-one, statistics is very rarely the *favorite* part of one’s psychological education. After all, if you really loved the idea of doing statistics, you’d probably be enrolled in a statistics class right now, not a psychology class. So, not surprisingly, there’s a pretty large proportion of the student base that isn’t happy about the fact that psychology has so much statistics in it. In view of this, I thought that the right place to start might be to answer some of the more common questions that people have about stats…
